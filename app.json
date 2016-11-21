@@ -1,0 +1,6 @@
+{
+  "name": "rack-print-env",
+  "description": "For debugging things like Cloudfront when used with Heroku",
+  "repository": "https://github.com/yurikoval/rack-print-env",
+  "keywords": ["rack"]
+}
